@@ -1,7 +1,7 @@
 <h1>Cyberbullying Detection in Tweets using Machine Learning Algorithms and Convolutional Neural Network</h1>
 
 <h2> Overview </h2>
-This project was created by Rafael Acuna, Aldie Alejandro, and Sted Cheng as their final requirement for the course **MATH 103.1: Predictive Modeling in Text** taken in 
+This project was created by Rafael Acuna, Aldie Alejandro, and Sted Cheng as their final requirement for the course <strong>MATH 103.1: Predictive Modeling in Text</strong> taken in 
 the First Semester of School Year 2023-2024.
 
 <h2>Introduction</h2>
