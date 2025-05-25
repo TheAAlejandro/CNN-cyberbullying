@@ -1,5 +1,9 @@
 <h1>Cyberbullying Detection in Tweets using Machine Learning Algorithms and Convolutional Neural Network</h1>
 
+<h2> Overview </h2>
+This project was created by Rafael Acuna, Aldie Alejandro, and Sted Cheng as their final requirement for the course **MATH 103.1: Predictive Modeling in Text** taken in 
+the First Semester of School Year 2023-2024.
+
 <h2>Introduction</h2>
 Cyberbullying occurs when a group or individual repeatedly and intentionally does an aggressive and harmful act via electronic means to victims who cannot easily defend
 themselves (Ademiluyi et al., 2022). It can happen in multiple online spaces such as social media, instant messaging, and email. The specific forms of cyberbullying (Lowry et al., 2016)
@@ -27,13 +31,7 @@ the appropriate action. By analyzing text data, our model can predict whether th
 restrict the said text. On top of this, it also detects the category of cyberbullying, which can be used for a more specific and tailored warning towards the user to better ensure its effectiveness
 so as for the person to not repeat the same offense again.
 
-<h2>Credits</h2>
-This project was created by Rafael Acuna, Aldie Alejandro, and Sted Cheng as their final requirement for the course **MATH 103.1: Predictive Modeling in Text** taken in 
-the First Semester of School Year 2023-2024.
-
-<ul>
 <h3>Files</h3>
   The attached files in this repository are as follows:
   <li><code>N-grams visualization.ipynb</code>: Python code for Exploratory Data Analysis</li>
   <li><code>Machine Learning and Neural Network.ipynb</code>: Python notebook containing CNN and Machine Learning models used to analyze cyberbullying tweets</li>
-</ul>
